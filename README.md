@@ -1,7 +1,7 @@
 # Olá, eu sou a Breno Camelo 👋
 
-**Analista e Desenvolvedora de Sistemas em formação**  
-Apaixonada por tecnologia, sempre aprendendo e em evolução constante.
+**Analista e Desenvolvedor de Sistemas em formação**  
+Apaixonado por tecnologia, sempre aprendendo e em evolução constante.
 
 ---
 
@@ -13,10 +13,10 @@ Apaixonada por tecnologia, sempre aprendendo e em evolução constante.
 
 ## 💼 Sobre mim
 
-- Estudante de **Análise e Desenvolvimento de Sistemas** na UNIFOR  
-- Curso técnico em T.I
+- Estudante de **Análise e Desenvolvimento de Sistemas** na UNIFOR
+- Curso de git e GitHub
 - Organização, proatividade e responsabilidade 
--  Prontidão para se reinventar e se adaptar
+- Prontidão para se reinventar e se adaptar
 ### 🔧 Tecnologias que ja utilizei/ em aprendizado 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
