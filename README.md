@@ -34,4 +34,4 @@ Apaixonado por tecnologia, sempre aprendendo e em evolução constante.
 - 📚 **Aprimorar minhas habilidades** em JavaScript e Java, buscando escrever código cada vez mais limpo e eficiente.  
 - 🤝 **Contribuir para a comunidade** participando de projetos open source e compartilhando conhecimento.  
 - 🎨 **Criar interfaces modernas e acessíveis**, que proporcionem uma ótima experiência ao usuário.  
-- 🚀 **Crescer como desenvolvedora**, sempre aprendendo novas tecnologias e acompanhando tendências do mercado.  
+- 🚀 **Crescer como desenvolvedor**, sempre aprendendo novas tecnologias e acompanhando tendências do mercado.  
