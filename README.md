@@ -15,6 +15,7 @@ Apaixonado por tecnologia, sempre aprendendo e em evolução constante.
 
 - Estudante de **Análise e Desenvolvimento de Sistemas** na UNIFOR
 - Curso de git e GitHub
+- Curso de AWS DevOps
 - Organização, proatividade e responsabilidade 
 - Prontidão para se reinventar e se adaptar
 ### 🔧 Tecnologias que ja utilizei/ em aprendizado 
@@ -23,6 +24,7 @@ Apaixonado por tecnologia, sempre aprendendo e em evolução constante.
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src= "https://img.shields.io/badge/C%2B%2B-32CD32?style=for-the-badge">
   <img src= "https://img.shields.io/badge/Node.Js-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
