@@ -23,7 +23,7 @@ Apaixonado por tecnologia, sempre aprendendo e em evolução constante.
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src= "https://img.shields.io/badge/Node.Js-8A2BE2"/>
+  <img src= "https://img.shields.io/badge/Node.Js-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
